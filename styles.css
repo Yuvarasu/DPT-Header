@@ -130,7 +130,7 @@ body {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        background-image: linear-gradient(90deg, white 54.9%, #83D4EE 55%);
+        background-image: linear-gradient(90deg, white 56.9%, #83D4EE 57%);
         padding: 10px 20px;
         position: relative;
         height: 80px;
@@ -143,4 +143,3 @@ body {
         width: 158px;
     }
  }
-
